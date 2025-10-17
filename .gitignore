@@ -1,0 +1,2 @@
+# ignore all executable (.exe) files
+*.exe
